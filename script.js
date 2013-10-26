@@ -72,7 +72,7 @@ $(function(){
     ui.addClass('open');
   });
   loader.start();
-  checkInstalled();
+  //checkInstalled();
   init();
 });
 
