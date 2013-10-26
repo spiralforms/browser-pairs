@@ -5,7 +5,7 @@
         "url":"http://christi3k.github.io/browser-pairs/index.html"
     },
     "description":"Browser Pairs Game",
-    "launch_path":"index.html",
+    "launch_path":"/index.html",
     "icons":{
         "64":"/images/icon64.jpg",
         "128":"/images/icon128.jpg"
